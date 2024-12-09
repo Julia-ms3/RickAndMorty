@@ -1,0 +1,22 @@
+# Xcode
+#
+# Build results
+/build/
+# User-specific files
+*.xcodeproj/project.xcworkspace/
+*.xcuserstate
+*.xcuserdatad
+# Derived data
+/DerivedData/
+# Xcode version
+.xcode-version
+# Swift Package Manager
+/.build/
+# CocoaPods
+Pods/
+# Carthage
+Carthage/Build/
+# Flutter
+flutter/
+# VS Code
+.vscode/
